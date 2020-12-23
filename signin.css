@@ -1,0 +1,46 @@
+.page{
+  display: flex;
+  margin: auto;
+   margin-top: 60px;
+width: 750px;
+height: 500px;
+align-items: center;
+box-shadow: 10px 5px 20px rgba(0, 0, 0, 0.5);
+border-radius: 0.3em;
+}
+.right{
+  padding: 20px;
+  margin: 20px;
+}
+.left{
+  text-align: center;
+    margin: 20px;
+  padding: 20px;
+}
+input{
+  border: none;
+  outline: none;
+  padding: 10px;
+  margin: 10px;
+  border-bottom: 1px solid black;
+}
+img{
+margin-bottom: 30px;
+}
+#social{
+  display: flex;
+justify-content: baseline;
+
+}
+.facebook{
+  color: #3b5998;
+}
+.twitter{
+  color:#00acee
+}
+.google{
+  color:#dc3545
+}
+.login{
+  width: 60%;
+}
